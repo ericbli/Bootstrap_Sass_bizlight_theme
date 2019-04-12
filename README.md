@@ -5,7 +5,7 @@ Bootstrap_Sass_bizlight_theme
 npm init -y
 npm install bootstrap
 npm install node-sass
-
+in package.json  add
  "scripts": {
     "sass": "node-sass -w scss/ -o css/"
   },
